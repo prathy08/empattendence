@@ -1,0 +1,15 @@
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\bin\Debug\net6.0\UC1.exe
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\bin\Debug\net6.0\UC1.deps.json
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\bin\Debug\net6.0\UC1.runtimeconfig.json
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\bin\Debug\net6.0\UC1.dll
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\bin\Debug\net6.0\UC1.pdb
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.csproj.AssemblyReference.cache
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.AssemblyInfoInputs.cache
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.AssemblyInfo.cs
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.csproj.CoreCompileInputs.cache
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.dll
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\refint\UC1.dll
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.pdb
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\UC1.genruntimeconfig.cache
+C:\Users\prathyusha\Desktop\bridgelabz\empattendence\UC1\obj\Debug\net6.0\ref\UC1.dll
